@@ -1,3 +1,4 @@
 
 # ignore mac artifacts 
 .DS_Store
+bams/hla_bams/dbsnp_hla.chr.vcf
